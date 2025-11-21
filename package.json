@@ -1,0 +1,34 @@
+{
+  "name": "@lunchflow/mcp",
+  "version": "0.1.0",
+  "description": "Access your Lunch Flow financial data in Claude and other AI assistants",
+  "main": "index.js",
+  "module": "./src/index.ts",
+  "type": "module",
+  "scripts": {
+    "dev": "smithery dev",
+    "build": "smithery build"
+  },
+  "keywords": [
+    "mcp",
+    "lunchflow",
+    "finance",
+    "banking",
+    "claude"
+  ],
+  "author": "Lunch Flow",
+  "license": "MIT",
+  "homepage": "https://lunchflow.app",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.20.0",
+    "@smithery/sdk": "^1.7.4",
+    "@ts-rest/core": "^3.45.0",
+    "chalk": "^5.6.2",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "zod": "^3.25.46"
+  },
+  "devDependencies": {
+    "@smithery/cli": "^1.6.3"
+  }
+}
