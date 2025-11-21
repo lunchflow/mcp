@@ -1,5 +1,7 @@
 # Lunch Flow MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@lunchflow/mcp)](https://smithery.ai/server/@lunchflow/mcp)
+
 > Connect your bank accounts to Claude and other AI assistants. Access financial data from **20,000+ banks across 40+ countries** through natural language.
 
 Query balances, transactions, and spending patterns without leaving your conversation - powered by your [Lunch Flow](https://lunchflow.app) account.
